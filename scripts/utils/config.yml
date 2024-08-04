@@ -1,0 +1,5 @@
+paths:
+  raw_experiment_data: "C:/Users/dorri/PycharmProjects/home-assignment-v1/data/raw_experiment_data/"
+  processed_experiment_data: "C:/Users/dorri/PycharmProjects/home-assignment-v1/data/processed_experiment_data/"
+  final_output: "C:/Users/dorri/PycharmProjects/home-assignment-v1/data/final_output/"
+  result_output_file: "C:/Users/dorri/PycharmProjects/home-assignment-v1/data/result_output_file.json"

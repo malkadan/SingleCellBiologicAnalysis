@@ -1,0 +1,53 @@
+[
+    {
+        "cell_type": {
+            "id": 1,
+            "name": "Neuron",
+            "location": "Brain",
+            "function": "Signal processing"
+        },
+        "environment": {
+            "id": 19,
+            "name": "In vivo",
+            "condition": "Healthy",
+            "medium": "Blood",
+            "temperature": "37ֲ°C"
+        },
+        "cell_response": 9.4,
+        "treatment": "Drug A"
+    },
+    {
+        "cell_type": {
+            "id": 1,
+            "name": "Neuron",
+            "location": "Brain",
+            "function": "Signal processing"
+        },
+        "environment": {
+            "id": 19,
+            "name": "In vivo",
+            "condition": "Healthy",
+            "medium": "Blood",
+            "temperature": "37ֲ°C"
+        },
+        "cell_response": 6.4,
+        "treatment": "Drug A"
+    },
+    {
+        "cell_type": {
+            "id": 1,
+            "name": "Neuron",
+            "location": "Brain",
+            "function": "Signal processing"
+        },
+        "environment": {
+            "id": 19,
+            "name": "In vivo",
+            "condition": "Healthy",
+            "medium": "Blood",
+            "temperature": "37ֲ°C"
+        },
+        "cell_response": 8.1,
+        "treatment": "Drug A"
+    }
+]
